@@ -1,4 +1,4 @@
-# GreatStore
+# Echos
 
 ## Overview
 
